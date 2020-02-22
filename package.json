@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "export-schema": "npx ./index.js"
+    "export-graphql-schema": "npx ./index.js"
   },
   "keywords": [
     "graphql",
