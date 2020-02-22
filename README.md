@@ -1,4 +1,6 @@
-Export schema from remote graphql server 
+Export schema from remote graphql server
 
 Usage:
- yarn export-graphql-schema --url=http://localhost:4000/graphql --path=./schema.graphql
+"scripts": {
+"export-schema": "npx ./node_modules/graphql-schema-cli/index.js --url=http://localhost:4000/graphql --path=./schema.graphql"
+}
