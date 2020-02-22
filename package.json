@@ -12,7 +12,7 @@
     "schema",
     "export"
   ],
-  "author": "iulia.mogos",
+  "author": "iulia mogos",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.19.2",
