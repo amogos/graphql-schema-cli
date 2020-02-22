@@ -1,0 +1,21 @@
+{
+  "name": "graphql-schema-cli",
+  "version": "1.0.0",
+  "description": "export graph ql schema from remote endpoint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "export-schema": "npx ./index.js"
+  },
+  "keywords": [
+    "graphql",
+    "schema",
+    "export"
+  ],
+  "author": "iulia.mogos",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "graphql": "^14.6.0"
+  }
+}
