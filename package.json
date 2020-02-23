@@ -4,8 +4,7 @@
   "description": "export graph ql schema from remote endpoint",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "export-graphql-schema": "npx ./index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "graphql",
