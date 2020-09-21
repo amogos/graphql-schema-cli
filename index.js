@@ -24,8 +24,7 @@ axios({
   "Content-Type": "application/json",
   data: {
     operationName: "IntrospectionQuery",
-    query: introspectionQuery,
-    variables: ""
+    query: introspectionQuery
   }
 })
   .then(({ data }) => {
