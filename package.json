@@ -14,7 +14,7 @@
   "author": "iulia mogos",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "graphql": "^14.6.0"
   },
   "devDependencies": {},
